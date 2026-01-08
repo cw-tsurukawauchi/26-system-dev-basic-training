@@ -1,4 +1,4 @@
-public class exercise10 {
+public class Exercise10 {
   public static void main(String[] args) {
     // TODO: ここにコードを書きます
   }

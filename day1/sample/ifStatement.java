@@ -1,4 +1,4 @@
-public class ifStatement {
+public class IfStatement {
     public static void main(String[] args) {
         int bookPrice = 1000;
         int payment = 1000; // 会計で支払ったお金

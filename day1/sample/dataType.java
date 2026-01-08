@@ -1,4 +1,4 @@
-public class dataType {
+public class DataType {
   public static void main(String[] args) {
       // 真偽値型の例
       boolean isJavaFun = true;

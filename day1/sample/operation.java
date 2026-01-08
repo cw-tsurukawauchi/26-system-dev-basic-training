@@ -1,4 +1,4 @@
-public class operation {
+public class Operation {
     public static void main(String[] args) {
         // 算術演算子の例
         int a = 10;
